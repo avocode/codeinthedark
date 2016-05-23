@@ -18,3 +18,4 @@ Stačí si buď naklonovat repozitář nebo [stáhnout ZIP](https://github.com/a
 - [Facebook akce](https://www.facebook.com/events/127428557657812/)
 - [Fotky](https://www.facebook.com/media/set/?set=a.1721954028042772.1073741835.1663528397218669&type=3)
 - Videa - Livestream ([Základní kolo](https://www.facebook.com/avocode/videos/1721082894796552/), [Semifinále](https://www.facebook.com/avocode/videos/1721131924791649/), [Finále](https://www.facebook.com/avocode/videos/1721154661456042/))
+- [Playlist](https://open.spotify.com/user/11127808547/playlist/61OzyDem7dePdfeEEsxIuc)
