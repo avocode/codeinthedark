@@ -4,13 +4,12 @@
 
 ## Pravidla soutěže
 
-Pravidla jsou jednoduchý:
+Pravidla jsou jednoduchá:
 
-1. Dostaneš náhled nějakýho webu
-2. Co nejlíp ho napodob v CSS a HTML bez použití prohlížeče
-3. Máš na to 15 minut.
+1. Dostaneš náhled nějakého webu
+2. Co nejlépe ho napodob v CSS a HTML bez použití prohlížeče
+3. Máš na to 15 minut
 
 ## Seznam vítězů
 
 - [2016 Prague](https://github.com/avocode/codeinthedark/tree/master/2016) - Dušan Novák
-
