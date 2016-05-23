@@ -5,6 +5,7 @@ Repozitář obsahuje soutěžní designy, které každá skupina soutežících 
 ## Pravidla soutěže
 
 Pravidla jsou jednoduchý:
+
 1. Dostaneš náhled nějakýho webu
 2. Co nejlíp ho napodob v CSS a HTML bez použití prohlížeče
 3. Máš na to 15 minut.
