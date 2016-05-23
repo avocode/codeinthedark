@@ -1,6 +1,6 @@
 # Code in the Dark
 
-[Code in the Dark](http://codeinthedark.com) je front-endová soutěž (HTML, CSS), kdy účastník kódí webovou stránku podle připraveného obrázku designu. Při implementaci nelze používáat prohlížeč pro náhled, žádné nástroje pro měření. Vítěž je hodnocen obecenstvem po skončení časového limitu.
+[Code in the Dark](http://codeinthedark.com) je front-endová soutěž (HTML, CSS), kdy účastník kódí webovou stránku podle připraveného obrázku designu. Při implementaci nelze používat prohlížeč pro náhled, žádné nástroje pro měření. Vítěž je hodnocen obecenstvem po skončení časového limitu.
 
 ## Pravidla soutěže
 
