@@ -12,5 +12,5 @@ Pravidla jsou jednoduchý:
 
 ## Seznam vítězů
 
-- 2016 Prague - Dušan Novák
+- [2016 Prague](https://github.com/avocode/codeinthedark/tree/master/2016) - Dušan Novák
 
