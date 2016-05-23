@@ -12,7 +12,7 @@ Pravidla jsou jednoduchá:
 
 ## Návod k použití
 
-Stačí si buď naklonovat repozitář nebo stáhnout ZIP. Poté si vybrat soutěžní kolo a otevřít `index.html`.
+Stačí si buď naklonovat repozitář nebo [stáhnout ZIP](https://github.com/avocode/codeinthedark/raw/master/2016/citd-prague-2016.zip). Poté si vybrat soutěžní kolo a otevřít `index.html`.
 
 ## Linky
 - [Facebook akce](https://www.facebook.com/events/127428557657812/)
